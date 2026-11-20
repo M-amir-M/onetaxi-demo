@@ -1,0 +1,11 @@
+:HL["/onetaxi-demo/_next/static/chunks/02j4p6zt6zf6b.css","style"]
+:HL["/onetaxi-demo/_next/static/media/191d227036512e10-s.p.0hs6q6udzld4a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/onetaxi-demo/_next/static/media/38b3f57056672e96-s.p.3j-lqo2q-puhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/onetaxi-demo/_next/static/media/8cccf984c8510bbf-s.p.2li_3lqay9qjq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/onetaxi-demo/_next/static/media/9f5a2b9f13a4ecbb-s.p.35a5cae5tspm2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/onetaxi-demo/_next/static/media/ae9e2a5bb156676d-s.p.061jvc6_x84nn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/onetaxi-demo/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"tracking","h":64,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"fi","s":[]},"h":65584,"c":"$Q2"}]]
+0:{"b":"i1lNgVnpZo-SHmmmehHEk","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
